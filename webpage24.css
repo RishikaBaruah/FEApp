@@ -1,0 +1,19 @@
+html, body{
+    
+    color: rgb(20, 2, 37);
+}
+
+nav {
+    display: flex;
+    padding-left: 20px;
+    background-color: rgb(176, 154, 197);
+}
+
+.nav-item{
+    margin-left: 10px;
+}
+
+img {
+    height: 250px;
+    width: 180px;
+}
